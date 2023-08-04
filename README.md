@@ -5,7 +5,9 @@
 
 Experienced entrepreneur and strategic thinker with a strong focus on driving business success through data-driven insights and innovative solutions. 
 
-Seeking opportunities to apply data-driven insights and decision-making skills as I transition into the dynamic world of big data and analytics. Let's [connect](https://www.linkedin.com/in/jonathan-kraayenbrink/ ) and explore how my unique entrepreneurial background and analytical acumen can contribute to the success of your organization.
+Seeking opportunities to apply data-driven insights and decision-making skills as I transition into the dynamic world of big data and analytics. 
+
+Let's [connect](https://www.linkedin.com/in/jonathan-kraayenbrink/ ) and explore how my unique entrepreneurial background and analytical acumen can contribute to the success of your organization.
 
 <!--
 https://ileriayo.github.io/markdown-badges/
