@@ -1,5 +1,5 @@
 
-![linkedin banner](https://media.licdn.com/dms/image/D4D16AQF45VlUKrrtag/profile-displaybackgroundimage-shrink_350_1400/0/1692174014781?e=1697673600&v=beta&t=jfLydFS0AadpB-xdxK-TcEVMSVUEs8q09-zDuSOqsRw)
+![linkedin banner](https://media.licdn.com/dms/image/D4D16AQF45VlUKrrtag/profile-displaybackgroundimage-shrink_350_1400/0/1692174017374?e=1707350400&v=beta&t=fPz90bTMBlBPadjlDMa2meRlojPWmlMaLiYnNh3OQTI)
 
 # Hello, my name is Jonathan Kraayenbrink!
 ### Data Scientist | Data Analyst | Entrepreneur
