@@ -1,8 +1,7 @@
 Hola, soy Jon 👋. El creador de **[aiselfi.es](https://aiselfi.es)** y **[Que IA Es?](https://queia.es)**.
 
-**Building [@aiselfi.es](https://aiselfi.es)**, converting selfies into professional photos.  
-**Founder** (x3)  
-**MSc in Data & AI** @ IE University
+💬 Preguntame sobre ML, IA y Vibe Coding.
+📫 Seguime en [Linkedin](https://www.linkedin.com/in/jonathan-kraayenbrink/), Twitter, Medium, Altern, ProductHunt, dev.to, Dribbble, tumblr and linktree
 
 Here is some of my work:
 
