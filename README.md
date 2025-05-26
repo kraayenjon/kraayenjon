@@ -6,5 +6,5 @@ Hola, soy Jon 👋. El creador de **[aiselfi.es](https://aiselfi.es)** y **[Que 
 
 ## Mis Proyectos:
 - [aiselfi.es](https://aiselfi.es/): convierte selfies en fotos profesionales con IA.
-- [queia.es](https://queia.es): directorio de paginas de inteligencia artificial, en español.
+- [Que IA Es?](https://queia.es): directorio de paginas de inteligencia artificial, en español.
 - [un_mate](https://instagram.com/un_mate) **(Founded & exited)**: 
