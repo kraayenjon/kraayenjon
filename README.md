@@ -25,4 +25,4 @@
 
   [jonkraayen.com](https://jonkraayen.com) · [LinkedIn](https://www.linkedin.com/in/jonathan-kraayenbrink/) ·
   [Twitter/X](https://x.com/kraayenjon) · [YouTube](https://youtube.com/@kraayenjon) ·
-  [ProductHunt](https://www.producthunt.com/@jonathan_kraayenbrink)
+  
