@@ -14,7 +14,7 @@
   |---|---|
   | [aiselfi.es](https://aiselfi.es) | Convierte selfies en fotos profesionales con IA. $29, listo en 2 min. |
   | [aprendevibecoding.com](https://aprendevibecoding.com) | Curso para lanzar tu primera app con IA sin saber programar. |
-  | [Kaptex | NotebookLM Extension](https://kaptex.io) | Guarda cualquier cosa en NotebookLM con un clic. |
+  | [Kaptex - NotebookLM Extension](https://kaptex.io) | Guarda cualquier cosa en NotebookLM con un clic. |
   | [donprompt.com](https://donprompt.com) | Biblioteca de prompts para emprendedores digitales |
   | [queia.es](https://queia.es) | Directorio curado de herramientas de IA en español. |
   | [lanza-tu-app.com](https://lanza-tu-app.com) | 200+ plataformas para lanzar tu producto digital. |
